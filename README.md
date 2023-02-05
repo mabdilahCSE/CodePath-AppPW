@@ -7,7 +7,7 @@ Simple app that takes user information such as name (first and last) school, sch
 ### App Walk-though
 https://imgur.com/gallery/2LLRIR8 <- Link to imgur gif
 
-<!-- <img src="https://imgur.com/gallery/2LLRIR8" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="/Users/khadarjamatukale/Desktop/PreWorkGif.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
