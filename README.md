@@ -5,9 +5,9 @@
 Simple app that takes user information such as name (first and last) school, school year, and how many pets they have and whether they want more!
 
 ### App Walk-though
+https://imgur.com/gallery/2LLRIR8 <- Link to imgur gif
 
-
-<!-- <img src="https://imgur.com/gallery/2LLRIR8" 
+<!-- <img src="https://imgur.com/gallery/2LLRIR8" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
