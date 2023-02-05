@@ -7,8 +7,7 @@ Simple app that takes user information such as name (first and last) school, sch
 ### App Walk-though
 
 
-<!-- <img src="https://imgur.com/gallery/2LLRIR8" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
+<!-- <img src="https://imgur.com/gallery/2LLRIR8" width=200><br> 
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
